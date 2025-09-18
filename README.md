@@ -1,5 +1,6 @@
+<p align="center"><img src="app/src/main/res/drawable/contract_icon2.png" alt="icon" height="100"></p>
 
-<h1 align="center">📱 Learning Contract Application</h1>  
+<h1 align="center"> Learning Contract Application</h1>  
 This is a static Android application built using Android Studio.  
 It is currently available for download as a release APK from the Releases section.
 
@@ -28,6 +29,10 @@ This project was built with:
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="Gradle" height="40">
 </p>
 
+### Contributors:
+<a href="https://github.com/Cyg-ni/CIT17-Learning-Contract/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Cyg-ni/CIT17-Learning-Contract" alt="contrib.rocks image" />
+</a>
 
 ## To build this project locally:
 1. Clone the repository: 
