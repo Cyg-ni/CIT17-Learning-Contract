@@ -21,11 +21,11 @@
     <string name="mot4"></string>
     <string name="mot5"></string>
     <string name="contributions">Contributions</string>
-    <string name="con1"></string>
-    <string name="con2"></string>
-    <string name="con3"></string>
-    <string name="con4"></string>
-    <string name="con5"></string>
+    <string name="con1">⦁	We will attend our classes be it synchronous or Face-to-Face as punctually as we can.</string>
+    <string name="con2">⦁	We will submit every deliverable on time and with quality output to the best of our knowledge and ability.</string>
+    <string name="con3">⦁	We guarantee our integrity and honesty with each and every single one of our activities.</string>
+    <string name="con4">⦁	We will give both our professor and fellow students and peers the respect that they deserve in each interaction.</string>
+    <string name="con5">⦁	We will study each module and answer questions during F2F discussions in recitations.</string>
     <string name="hindrances">Hindrances</string>
     <string name="hind1"></string>
     <string name="hind2"></string>

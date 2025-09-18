@@ -7,8 +7,8 @@ It is currently available for download as a release APK from the Releases sectio
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="app/src/main/res/drawable/Screenshot1.png" alt="screenshot1" height="500" style="margin-right: 10px;">
-  <img src="app/src/main/res/drawable/Screenshot2.png" alt="screenshot2" height="500">
+  <img src="app/src/main/res/drawable/screenshot1.png" alt="screenshot1" height="500" style="margin-right: 10px;">
+  <img src="app/src/main/res/drawable/screenshot2.png" alt="screenshot2" height="500">
 </p>
 
 
